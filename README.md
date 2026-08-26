@@ -1,9 +1,5 @@
 # Tugas Pertemuan 2: Aplikasi Profil Mahasiswa
 
-Halo! Ini adalah *project* sederhana berbasis VB.NET (Windows Forms) yang aku kerjakan untuk latihan dasar desain antarmuka pengguna (GUI). 
-
-Di tugas ini, aplikasinya berfungsi untuk meminta input biodata (Nama, NIM, dan KOM), lalu menampilkannya lewat *message box* saat tombol diklik.
-
 ## Komponen yang Dipelajari
 Karena ini masih materi awal, *project* ini fokus buat ngebiasain diri pakai tiga komponen dasar di Visual Studio:
 
