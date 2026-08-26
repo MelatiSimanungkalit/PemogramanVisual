@@ -1,8 +1,5 @@
 # Tugas Pertemuan 2: Aplikasi Profil Mahasiswa
 
-## Komponen yang Dipelajari
-Karena ini masih materi awal, *project* ini fokus buat ngebiasain diri pakai tiga komponen dasar di Visual Studio:
-
 *   **Label:** Dipakai buat bikin teks judul yang statis, kayak tulisan "NAMA :", "NIM :", dan "KOM :".
 *   **TextBox:** Ini kotak putih tempat *user* ngetik data. Di pengaturan *Properties*, namanya udah disesuaikan jadi `txtNama`, `txtNIM`, dan `txtKOM` biar gampang dipanggil di kodingan.
 *   **Button:** Tombol buat ngeksekusi perintah. Ada tiga tombol yang dibuat:
