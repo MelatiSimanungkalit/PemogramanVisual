@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\pemograman-visual\\Pertemuan3-Operator-Struktur-Pengendalian\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC67AE0-149E-4575-AF03-B182AB3D9389}|Pertemuan3-Operator-Struktur-Pengendalian\\Pertemuan3-Operator-Struktur-Pengendalian.vbproj|c:\\users\\user\\documents\\pemograman-visual\\pertemuan3-operator-struktur-pengendalian\\pertemuan3-operator-struktur-pengendalian\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6BC67AE0-149E-4575-AF03-B182AB3D9389}|Pertemuan3-Operator-Struktur-Pengendalian\\Pertemuan3-Operator-Struktur-Pengendalian.vbproj|solutionrelative:pertemuan3-operator-struktur-pengendalian\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC67AE0-149E-4575-AF03-B182AB3D9389}|Pertemuan3-Operator-Struktur-Pengendalian\\Pertemuan3-Operator-Struktur-Pengendalian.vbproj|c:\\users\\user\\documents\\pemograman-visual\\pertemuan3-operator-struktur-pengendalian\\pertemuan3-operator-struktur-pengendalian\\asset\\1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6BC67AE0-149E-4575-AF03-B182AB3D9389}|Pertemuan3-Operator-Struktur-Pengendalian\\Pertemuan3-Operator-Struktur-Pengendalian.vbproj|solutionrelative:pertemuan3-operator-struktur-pengendalian\\asset\\1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC67AE0-149E-4575-AF03-B182AB3D9389}|Pertemuan3-Operator-Struktur-Pengendalian\\Pertemuan3-Operator-Struktur-Pengendalian.vbproj|c:\\users\\user\\documents\\pemograman-visual\\pertemuan3-operator-struktur-pengendalian\\pertemuan3-operator-struktur-pengendalian\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6BC67AE0-149E-4575-AF03-B182AB3D9389}|Pertemuan3-Operator-Struktur-Pengendalian\\Pertemuan3-Operator-Struktur-Pengendalian.vbproj|solutionrelative:pertemuan3-operator-struktur-pengendalian\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1.png - PNG [787x478, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\pemograman-visual\\Pertemuan3-Operator-Struktur-Pengendalian\\Pertemuan3-Operator-Struktur-Pengendalian\\Asset\\1.png",
+              "RelativeDocumentMoniker": "Pertemuan3-Operator-Struktur-Pengendalian\\Asset\\1.png",
+              "ToolTip": "C:\\Users\\USER\\Documents\\pemograman-visual\\Pertemuan3-Operator-Struktur-Pengendalian\\Pertemuan3-Operator-Struktur-Pengendalian\\Asset\\1.png - PNG [787x478, 32 bit, PNG]",
+              "RelativeToolTip": "Pertemuan3-Operator-Struktur-Pengendalian\\Asset\\1.png - PNG [787x478, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-09-01T02:17:39.724Z",
+              "EditorCaption": " - PNG [787x478, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\pemograman-visual\\Pertemuan3-Operator-Struktur-Pengendalian\\Pertemuan3-Operator-Struktur-Pengendalian\\Form1.vb",
+              "RelativeDocumentMoniker": "Pertemuan3-Operator-Struktur-Pengendalian\\Form1.vb",
+              "ToolTip": "C:\\Users\\USER\\Documents\\pemograman-visual\\Pertemuan3-Operator-Struktur-Pengendalian\\Pertemuan3-Operator-Struktur-Pengendalian\\Form1.vb",
+              "RelativeToolTip": "Pertemuan3-Operator-Struktur-Pengendalian\\Form1.vb",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-01T01:39:19.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\pemograman-visual\\Pertemuan3-Operator-Struktur-Pengendalian\\Pertemuan3-Operator-Struktur-Pengendalian\\Form1.vb",
+              "RelativeDocumentMoniker": "Pertemuan3-Operator-Struktur-Pengendalian\\Form1.vb",
+              "ToolTip": "C:\\Users\\USER\\Documents\\pemograman-visual\\Pertemuan3-Operator-Struktur-Pengendalian\\Pertemuan3-Operator-Struktur-Pengendalian\\Form1.vb [Design]",
+              "RelativeToolTip": "Pertemuan3-Operator-Struktur-Pengendalian\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-01T01:28:10.18Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
