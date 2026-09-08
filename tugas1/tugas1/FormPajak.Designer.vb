@@ -29,6 +29,7 @@ Partial Class FormPajak
         lblRp = New Label()
         txtPendapatan = New TextBox()
         btnHitung = New Button()
+        btnKeluar = New Button()
         SuspendLayout()
         ' 
         ' lblInfo1
@@ -92,11 +93,21 @@ Partial Class FormPajak
         btnHitung.Text = "Hitung"
         btnHitung.UseVisualStyleBackColor = True
         ' 
+        ' btnKeluar
+        ' 
+        btnKeluar.Location = New Point(325, 391)
+        btnKeluar.Name = "btnKeluar"
+        btnKeluar.Size = New Size(94, 29)
+        btnKeluar.TabIndex = 7
+        btnKeluar.Text = "Keluar"
+        btnKeluar.UseVisualStyleBackColor = True
+        ' 
         ' FormPajak
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
+        Controls.Add(btnKeluar)
         Controls.Add(btnHitung)
         Controls.Add(txtPendapatan)
         Controls.Add(lblRp)
@@ -117,4 +128,5 @@ Partial Class FormPajak
     Friend WithEvents lblRp As Label
     Friend WithEvents txtPendapatan As TextBox
     Friend WithEvents btnHitung As Button
+    Friend WithEvents btnKeluar As Button
 End Class
